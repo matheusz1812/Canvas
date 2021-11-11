@@ -1,6 +1,22 @@
 /**/
-
-canvas{
-  background-color: #ccc;
-  width: 100%;
+ 
+canvas.Escuro{
+ background-image: url("https://media.seudinheiro.com/uploads/2019/01/giphy-c%C3%A9u-estrelado.gif");
+ width: 95%;
 }
+
+canvas.Claro{
+ background-image: url("https://i.pinimg.com/originals/e6/71/8e/e6718e4d263b2387c3840df1bd65ca7f.gif");
+ width: 95%;
+}
+ 
+button{
+ height: 60px;
+}
+ 
+button svg{
+ height: 40px;
+ width: 40px;
+}
+
+button 
